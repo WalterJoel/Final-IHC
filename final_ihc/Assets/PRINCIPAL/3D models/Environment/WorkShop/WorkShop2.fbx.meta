@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: e31f5e39d18ef2645ba0f84c62b287be
+timeCreated: 1536509963
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bloom
+    100002: Door
+    100004: ExteriorWall
+    100006: Hemi
+    100008: Hemi.001
+    100010: Hemi.002
+    100012: Hemi.003
+    100014: Hemi.004
+    100016: Lamp
+    100018: Neon
+    100020: RoolDoor
+    100022: Tire
+    100024: ToolStore
+    100026: //RootNode
+    100028: WorkShopInterior
+    400000: Bloom
+    400002: Door
+    400004: ExteriorWall
+    400006: Hemi
+    400008: Hemi.001
+    400010: Hemi.002
+    400012: Hemi.003
+    400014: Hemi.004
+    400016: Lamp
+    400018: Neon
+    400020: RoolDoor
+    400022: Tire
+    400024: ToolStore
+    400026: //RootNode
+    400028: WorkShopInterior
+    2300000: Bloom
+    2300002: Door
+    2300004: ExteriorWall
+    2300006: Lamp
+    2300008: Neon
+    2300010: RoolDoor
+    2300012: Tire
+    2300014: ToolStore
+    2300016: WorkShopInterior
+    3300000: Bloom
+    3300002: Door
+    3300004: ExteriorWall
+    3300006: Lamp
+    3300008: Neon
+    3300010: RoolDoor
+    3300012: Tire
+    3300014: ToolStore
+    3300016: WorkShopInterior
+    4300000: RoolDoor
+    4300002: Door
+    4300004: Bloom
+    4300006: ExteriorWall
+    4300008: Neon
+    4300010: ToolStore
+    4300012: Tire
+    4300014: Lamp
+    4300016: WorkShopInterior
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

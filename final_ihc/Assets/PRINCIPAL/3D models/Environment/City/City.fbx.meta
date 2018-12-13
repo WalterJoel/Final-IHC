@@ -1,0 +1,1296 @@
+fileFormatVersion: 2
+guid: ee5162cde97505748b52635024da7bd8
+timeCreated: 1537379629
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '#ScaleReferences'
+    100002: BezierCircle
+    100004: Bilboard.001
+    100006: Bilboard.002
+    100008: Build
+    100010: Build.001
+    100012: Build.002
+    100014: Build.003
+    100016: Build.004
+    100018: Build.005
+    100020: Build.006
+    100022: Build.007
+    100024: Build.008
+    100026: Build.009
+    100028: Build.010
+    100030: Build.011
+    100032: Build.012
+    100034: Build.013
+    100036: Build1
+    100038: Build1NIGHTS
+    100040: Build2
+    100042: Build2NIGHTS
+    100044: Build3
+    100046: Build3NIGTS
+    100048: Build4
+    100050: Build4NIGHTS
+    100052: Build5
+    100054: Build5.NIGHTS
+    100056: Build6
+    100058: Build6.NIGHTS
+    100060: Build7
+    100062: Build7.NIGHTS
+    100064: Build8
+    100066: Build8.NIGHTS
+    100068: Build9.001
+    100070: Build9.NIGHTS
+    100072: casa
+    100074: //RootNode
+    100076: COLLSIONstreetLamp
+    100078: COLLSIONstreetLamp.001
+    100080: COLLSIONstreetLamp.002
+    100082: COLLSIONstreetLamp.003
+    100084: COLLSIONstreetLamp.004
+    100086: COLLSIONstreetLamp.005
+    100088: COLLSIONstreetLamp.006
+    100090: COLLSIONstreetLamp.007
+    100092: COLLSIONstreetLamp.008
+    100094: COLLSIONstreetLamp.009
+    100096: COLLSIONstreetLamp.010
+    100098: COLLSIONstreetLamp.011
+    100100: COLLSIONstreetLamp.012
+    100102: COLLSIONstreetLamp.013
+    100104: COLLSIONstreetLamp.014
+    100106: COLLSIONstreetLamp.015
+    100108: COLLSIONstreetLamp.016
+    100110: COLLSIONstreetLamp.017
+    100112: COLLSIONstreetLamp.018
+    100114: COLLSIONstreetLamp.019
+    100116: COLLSIONstreetLamp.020
+    100118: COLLSIONstreetLamp.021
+    100120: COLLSIONstreetLamp.022
+    100122: COLLSIONstreetLamp.023
+    100124: COLLSIONstreetLamp.024
+    100126: Computer
+    100128: FakeGround (no collision
+    100130: FrontDoor
+    100132: Grass
+    100134: Grass(fisic material grass)
+    100136: Group Builds (no collision)
+    100138: Group Builds NIGHTS (no collision)
+    100140: GROUPbuilds (Collision)
+    100142: GROUPcollision
+    100144: GROUPfake (no collision)
+    100146: GROUPparticles(NoColl.; Ba.FaceOff)
+    100148: GROUPramps
+    100150: GROUPstreetLamp(NoCollision)
+    100152: GuardRail(no collision)
+    100154: GuardRail(no collision)_MeshPart0
+    100156: GuardRail(no collision)_MeshPart1
+    100158: GuardRail(no collision)_MeshPart2
+    100160: Hemi
+    100162: Hotel
+    100164: Hotel(NIGHTS)
+    100166: House
+    100168: House(no collision)
+    100170: Houses
+    100172: Industry1
+    100174: Industry2
+    100176: Industry2.001
+    100178: InvisibleWalls (no render)
+    100180: Light.001
+    100182: Miscellaneous
+    100184: Neon (AddBlend; BackFaceOn)
+    100186: NeonLamp
+    100188: NurbsPath
+    100190: NurbsPath.001
+    100192: NurbsPath.002
+    100194: NurbsPath.003
+    100196: NurbsPath.004
+    100198: NurbsPath.005
+    100200: NurbsPath.006
+    100202: NurbsPath.007
+    100204: Palm(BAckFaceOFF)
+    100206: Palm(BAckFaceOFF).001
+    100208: Palm(BAckFaceOFF).002
+    100210: Palm(BAckFaceOFF).003
+    100212: Palm(BAckFaceOFF).004
+    100214: Palm(BAckFaceOFF).005
+    100216: ParkWalkTrought
+    100218: Plane.000
+    100220: Plane.001
+    100222: Plane.003
+    100224: Ramp
+    100226: Ramp.001
+    100228: Ramp.002
+    100230: RoadPass
+    100232: Signs(no collision)
+    100234: SKYcloudDOme
+    100236: Street(fisic materil asphalt)
+    100238: Street(fisic materil asphalt)_MeshPart0
+    100240: Street(fisic materil asphalt)_MeshPart1
+    100242: StreetLamp
+    100244: StreetLamp.001
+    100246: StreetLamp.002
+    100248: StreetLamp.003
+    100250: StreetLamp.004
+    100252: StreetLamp.005
+    100254: StreetLamp.006
+    100256: StreetLamp.007
+    100258: StreetLamp.008
+    100260: StreetLamp.009
+    100262: StreetLamp.010
+    100264: StreetLamp.011
+    100266: StreetLamp.012
+    100268: StreetLamp.013
+    100270: StreetLamp.014
+    100272: StreetLamp.015
+    100274: StreetLamp.016
+    100276: StreetLamp.017
+    100278: StreetLamp.018
+    100280: StreetLamp.019
+    100282: StreetLamp.020
+    100284: StreetLamp.021
+    100286: StreetLamp.022
+    100288: StreetLamp.023
+    100290: StreetLamp.024
+    100292: StreetLamp.025
+    100294: StreetLamp.026
+    100296: StreetLamp.027
+    100298: StreetLamp.028
+    100300: StreetLamp.029
+    100302: StreetLamp.030
+    100304: StreetLamp.031
+    100306: StreetLamp.032
+    100308: StreetLamp.033
+    100310: StreetLamp.034
+    100312: StreetLamp.035
+    100314: StreetLamp.036
+    100316: StreetLamp.037
+    100318: StreetLamp.038
+    100320: StreetLamp.039
+    100322: StreetLamp.040
+    100324: StreetLamp.041
+    100326: StreetLamp.042
+    100328: StreetLamp.043
+    100330: StreetLamp.044
+    100332: StreetLamp.045
+    100334: StreetLamp.046
+    100336: StreetLamp.047
+    100338: StreetLamp.048
+    100340: StreetLamp.049
+    100342: StreetLamp.050
+    100344: StreetLamp.051
+    100346: StreetLamp.052
+    100348: StreetLamp.053
+    100350: StreetLamp.054
+    100352: StreetLamp.055
+    100354: StreetLamp.056
+    100356: StreetLamp.057
+    100358: StreetLamp.058
+    100360: StreetLamp.059
+    100362: StreetLamp.060
+    100364: StreetLamp.061
+    100366: StreetLamp.062
+    100368: StreetLamp.063
+    100370: StreetLamp.064
+    100372: StreetLamp.065
+    100374: StreetLamp.066
+    100376: StreetLamp.067
+    100378: StreetLamp.068
+    100380: StreetLamp.069
+    100382: StreetLamp.070
+    100384: StreetLamp.071
+    100386: StreetLamp.072
+    100388: StreetLamp.073
+    100390: StreetLamp.074
+    100392: StreetLamp.075
+    100394: StreetLamp.076
+    100396: StreetLamp.077
+    100398: StreetLamp.078
+    100400: StreetLamp.079
+    100402: StreetLamp.080
+    100404: StreetLamp.081
+    100406: StreetLamp.082
+    100408: StreetLamp.083
+    100410: StreetLamp.084
+    100412: StreetLamp.085
+    100414: StreetLamp.086
+    100416: StreetLamp.087
+    100418: StreetLamp.088
+    100420: StreetLamp.089
+    100422: StreetLamp.090
+    100424: StreetLamp.091
+    100426: StreetLamp.092
+    100428: StreetLamp.093
+    100430: StreetLamp.094
+    100432: StreetLamp.095
+    100434: StreetLamp.096
+    100436: StreetLamp.097
+    100438: StreetLamp.098
+    100440: StreetLamp.099
+    100442: StreetLamp.100
+    100444: StreetLamp.101
+    100446: StreetLamp.102
+    100448: StreetLamp.103
+    100450: StreetLamp.104
+    100452: StreetLamp.105
+    100454: StreetLamp.106
+    100456: StreetLamp.107
+    100458: StreetLamp.108
+    100460: StreetLamp.109
+    100462: StreetLamp.110
+    100464: StreetLamp.111
+    100466: StreetLamp.112
+    100468: StreetLamp.113
+    100470: StreetLamp.114
+    100472: Threes(no collision)
+    100474: WORKSHOP
+    100476: WORKSHOPinterior
+    100478: XGrass
+    100480: XGuardRail(no collision).001
+    100482: XGuardRail(no collision).001_MeshPart0
+    100484: XGuardRail(no collision).001_MeshPart1
+    100486: XGuardRail(no collision).001_MeshPart2
+    100488: XGuardRail(no collision).001_MeshPart3
+    100490: XGuardRail.001
+    100492: XHouse(no collision).001
+    100494: XLights(No Collision).001
+    100496: XNurbsPath
+    100498: XScaleReferences
+    100500: ZombTech
+    400000: '#ScaleReferences'
+    400002: BezierCircle
+    400004: Bilboard.001
+    400006: Bilboard.002
+    400008: Build
+    400010: Build.001
+    400012: Build.002
+    400014: Build.003
+    400016: Build.004
+    400018: Build.005
+    400020: Build.006
+    400022: Build.007
+    400024: Build.008
+    400026: Build.009
+    400028: Build.010
+    400030: Build.011
+    400032: Build.012
+    400034: Build.013
+    400036: Build1
+    400038: Build1NIGHTS
+    400040: Build2
+    400042: Build2NIGHTS
+    400044: Build3
+    400046: Build3NIGTS
+    400048: Build4
+    400050: Build4NIGHTS
+    400052: Build5
+    400054: Build5.NIGHTS
+    400056: Build6
+    400058: Build6.NIGHTS
+    400060: Build7
+    400062: Build7.NIGHTS
+    400064: Build8
+    400066: Build8.NIGHTS
+    400068: Build9.001
+    400070: Build9.NIGHTS
+    400072: casa
+    400074: //RootNode
+    400076: COLLSIONstreetLamp
+    400078: COLLSIONstreetLamp.001
+    400080: COLLSIONstreetLamp.002
+    400082: COLLSIONstreetLamp.003
+    400084: COLLSIONstreetLamp.004
+    400086: COLLSIONstreetLamp.005
+    400088: COLLSIONstreetLamp.006
+    400090: COLLSIONstreetLamp.007
+    400092: COLLSIONstreetLamp.008
+    400094: COLLSIONstreetLamp.009
+    400096: COLLSIONstreetLamp.010
+    400098: COLLSIONstreetLamp.011
+    400100: COLLSIONstreetLamp.012
+    400102: COLLSIONstreetLamp.013
+    400104: COLLSIONstreetLamp.014
+    400106: COLLSIONstreetLamp.015
+    400108: COLLSIONstreetLamp.016
+    400110: COLLSIONstreetLamp.017
+    400112: COLLSIONstreetLamp.018
+    400114: COLLSIONstreetLamp.019
+    400116: COLLSIONstreetLamp.020
+    400118: COLLSIONstreetLamp.021
+    400120: COLLSIONstreetLamp.022
+    400122: COLLSIONstreetLamp.023
+    400124: COLLSIONstreetLamp.024
+    400126: Computer
+    400128: FakeGround (no collision
+    400130: FrontDoor
+    400132: Grass
+    400134: Grass(fisic material grass)
+    400136: Group Builds (no collision)
+    400138: Group Builds NIGHTS (no collision)
+    400140: GROUPbuilds (Collision)
+    400142: GROUPcollision
+    400144: GROUPfake (no collision)
+    400146: GROUPparticles(NoColl.; Ba.FaceOff)
+    400148: GROUPramps
+    400150: GROUPstreetLamp(NoCollision)
+    400152: GuardRail(no collision)
+    400154: GuardRail(no collision)_MeshPart0
+    400156: GuardRail(no collision)_MeshPart1
+    400158: GuardRail(no collision)_MeshPart2
+    400160: Hemi
+    400162: Hotel
+    400164: Hotel(NIGHTS)
+    400166: House
+    400168: House(no collision)
+    400170: Houses
+    400172: Industry1
+    400174: Industry2
+    400176: Industry2.001
+    400178: InvisibleWalls (no render)
+    400180: Light.001
+    400182: Miscellaneous
+    400184: Neon (AddBlend; BackFaceOn)
+    400186: NeonLamp
+    400188: NurbsPath
+    400190: NurbsPath.001
+    400192: NurbsPath.002
+    400194: NurbsPath.003
+    400196: NurbsPath.004
+    400198: NurbsPath.005
+    400200: NurbsPath.006
+    400202: NurbsPath.007
+    400204: Palm(BAckFaceOFF)
+    400206: Palm(BAckFaceOFF).001
+    400208: Palm(BAckFaceOFF).002
+    400210: Palm(BAckFaceOFF).003
+    400212: Palm(BAckFaceOFF).004
+    400214: Palm(BAckFaceOFF).005
+    400216: ParkWalkTrought
+    400218: Plane.000
+    400220: Plane.001
+    400222: Plane.003
+    400224: Ramp
+    400226: Ramp.001
+    400228: Ramp.002
+    400230: RoadPass
+    400232: Signs(no collision)
+    400234: SKYcloudDOme
+    400236: Street(fisic materil asphalt)
+    400238: Street(fisic materil asphalt)_MeshPart0
+    400240: Street(fisic materil asphalt)_MeshPart1
+    400242: StreetLamp
+    400244: StreetLamp.001
+    400246: StreetLamp.002
+    400248: StreetLamp.003
+    400250: StreetLamp.004
+    400252: StreetLamp.005
+    400254: StreetLamp.006
+    400256: StreetLamp.007
+    400258: StreetLamp.008
+    400260: StreetLamp.009
+    400262: StreetLamp.010
+    400264: StreetLamp.011
+    400266: StreetLamp.012
+    400268: StreetLamp.013
+    400270: StreetLamp.014
+    400272: StreetLamp.015
+    400274: StreetLamp.016
+    400276: StreetLamp.017
+    400278: StreetLamp.018
+    400280: StreetLamp.019
+    400282: StreetLamp.020
+    400284: StreetLamp.021
+    400286: StreetLamp.022
+    400288: StreetLamp.023
+    400290: StreetLamp.024
+    400292: StreetLamp.025
+    400294: StreetLamp.026
+    400296: StreetLamp.027
+    400298: StreetLamp.028
+    400300: StreetLamp.029
+    400302: StreetLamp.030
+    400304: StreetLamp.031
+    400306: StreetLamp.032
+    400308: StreetLamp.033
+    400310: StreetLamp.034
+    400312: StreetLamp.035
+    400314: StreetLamp.036
+    400316: StreetLamp.037
+    400318: StreetLamp.038
+    400320: StreetLamp.039
+    400322: StreetLamp.040
+    400324: StreetLamp.041
+    400326: StreetLamp.042
+    400328: StreetLamp.043
+    400330: StreetLamp.044
+    400332: StreetLamp.045
+    400334: StreetLamp.046
+    400336: StreetLamp.047
+    400338: StreetLamp.048
+    400340: StreetLamp.049
+    400342: StreetLamp.050
+    400344: StreetLamp.051
+    400346: StreetLamp.052
+    400348: StreetLamp.053
+    400350: StreetLamp.054
+    400352: StreetLamp.055
+    400354: StreetLamp.056
+    400356: StreetLamp.057
+    400358: StreetLamp.058
+    400360: StreetLamp.059
+    400362: StreetLamp.060
+    400364: StreetLamp.061
+    400366: StreetLamp.062
+    400368: StreetLamp.063
+    400370: StreetLamp.064
+    400372: StreetLamp.065
+    400374: StreetLamp.066
+    400376: StreetLamp.067
+    400378: StreetLamp.068
+    400380: StreetLamp.069
+    400382: StreetLamp.070
+    400384: StreetLamp.071
+    400386: StreetLamp.072
+    400388: StreetLamp.073
+    400390: StreetLamp.074
+    400392: StreetLamp.075
+    400394: StreetLamp.076
+    400396: StreetLamp.077
+    400398: StreetLamp.078
+    400400: StreetLamp.079
+    400402: StreetLamp.080
+    400404: StreetLamp.081
+    400406: StreetLamp.082
+    400408: StreetLamp.083
+    400410: StreetLamp.084
+    400412: StreetLamp.085
+    400414: StreetLamp.086
+    400416: StreetLamp.087
+    400418: StreetLamp.088
+    400420: StreetLamp.089
+    400422: StreetLamp.090
+    400424: StreetLamp.091
+    400426: StreetLamp.092
+    400428: StreetLamp.093
+    400430: StreetLamp.094
+    400432: StreetLamp.095
+    400434: StreetLamp.096
+    400436: StreetLamp.097
+    400438: StreetLamp.098
+    400440: StreetLamp.099
+    400442: StreetLamp.100
+    400444: StreetLamp.101
+    400446: StreetLamp.102
+    400448: StreetLamp.103
+    400450: StreetLamp.104
+    400452: StreetLamp.105
+    400454: StreetLamp.106
+    400456: StreetLamp.107
+    400458: StreetLamp.108
+    400460: StreetLamp.109
+    400462: StreetLamp.110
+    400464: StreetLamp.111
+    400466: StreetLamp.112
+    400468: StreetLamp.113
+    400470: StreetLamp.114
+    400472: Threes(no collision)
+    400474: WORKSHOP
+    400476: WORKSHOPinterior
+    400478: XGrass
+    400480: XGuardRail(no collision).001
+    400482: XGuardRail(no collision).001_MeshPart0
+    400484: XGuardRail(no collision).001_MeshPart1
+    400486: XGuardRail(no collision).001_MeshPart2
+    400488: XGuardRail(no collision).001_MeshPart3
+    400490: XGuardRail.001
+    400492: XHouse(no collision).001
+    400494: XLights(No Collision).001
+    400496: XNurbsPath
+    400498: XScaleReferences
+    400500: ZombTech
+    2300000: '#ScaleReferences'
+    2300002: BezierCircle
+    2300004: Bilboard.001
+    2300006: Bilboard.002
+    2300008: Build
+    2300010: Build.001
+    2300012: Build.002
+    2300014: Build.003
+    2300016: Build.004
+    2300018: Build.005
+    2300020: Build.006
+    2300022: Build.007
+    2300024: Build.008
+    2300026: Build.009
+    2300028: Build.010
+    2300030: Build.011
+    2300032: Build.012
+    2300034: Build.013
+    2300036: Build1
+    2300038: Build1NIGHTS
+    2300040: Build2
+    2300042: Build2NIGHTS
+    2300044: Build3
+    2300046: Build3NIGTS
+    2300048: Build4
+    2300050: Build4NIGHTS
+    2300052: Build5
+    2300054: Build5.NIGHTS
+    2300056: Build6
+    2300058: Build6.NIGHTS
+    2300060: Build7
+    2300062: Build7.NIGHTS
+    2300064: Build8
+    2300066: Build8.NIGHTS
+    2300068: Build9.001
+    2300070: Build9.NIGHTS
+    2300072: casa
+    2300074: COLLSIONstreetLamp
+    2300076: COLLSIONstreetLamp.001
+    2300078: COLLSIONstreetLamp.002
+    2300080: COLLSIONstreetLamp.003
+    2300082: COLLSIONstreetLamp.004
+    2300084: COLLSIONstreetLamp.005
+    2300086: COLLSIONstreetLamp.006
+    2300088: COLLSIONstreetLamp.007
+    2300090: COLLSIONstreetLamp.008
+    2300092: COLLSIONstreetLamp.009
+    2300094: COLLSIONstreetLamp.010
+    2300096: COLLSIONstreetLamp.011
+    2300098: COLLSIONstreetLamp.012
+    2300100: COLLSIONstreetLamp.013
+    2300102: COLLSIONstreetLamp.014
+    2300104: COLLSIONstreetLamp.015
+    2300106: COLLSIONstreetLamp.016
+    2300108: COLLSIONstreetLamp.017
+    2300110: COLLSIONstreetLamp.018
+    2300112: COLLSIONstreetLamp.019
+    2300114: COLLSIONstreetLamp.020
+    2300116: COLLSIONstreetLamp.021
+    2300118: COLLSIONstreetLamp.022
+    2300120: COLLSIONstreetLamp.023
+    2300122: COLLSIONstreetLamp.024
+    2300124: Computer
+    2300126: FakeGround (no collision
+    2300128: FrontDoor
+    2300130: Grass
+    2300132: Grass(fisic material grass)
+    2300134: GuardRail(no collision)_MeshPart0
+    2300136: GuardRail(no collision)_MeshPart1
+    2300138: GuardRail(no collision)_MeshPart2
+    2300140: Hotel
+    2300142: Hotel(NIGHTS)
+    2300144: House
+    2300146: House(no collision)
+    2300148: Houses
+    2300150: Industry1
+    2300152: Industry2
+    2300154: Industry2.001
+    2300156: InvisibleWalls (no render)
+    2300158: Light.001
+    2300160: Miscellaneous
+    2300162: Neon (AddBlend; BackFaceOn)
+    2300164: NeonLamp
+    2300166: NurbsPath
+    2300168: NurbsPath.001
+    2300170: NurbsPath.002
+    2300172: NurbsPath.003
+    2300174: NurbsPath.004
+    2300176: NurbsPath.005
+    2300178: NurbsPath.006
+    2300180: NurbsPath.007
+    2300182: Palm(BAckFaceOFF)
+    2300184: Palm(BAckFaceOFF).001
+    2300186: Palm(BAckFaceOFF).002
+    2300188: Palm(BAckFaceOFF).003
+    2300190: Palm(BAckFaceOFF).004
+    2300192: Palm(BAckFaceOFF).005
+    2300194: ParkWalkTrought
+    2300196: Plane.000
+    2300198: Plane.001
+    2300200: Plane.003
+    2300202: Ramp
+    2300204: Ramp.001
+    2300206: Ramp.002
+    2300208: RoadPass
+    2300210: Signs(no collision)
+    2300212: SKYcloudDOme
+    2300214: Street(fisic materil asphalt)_MeshPart0
+    2300216: Street(fisic materil asphalt)_MeshPart1
+    2300218: StreetLamp
+    2300220: StreetLamp.001
+    2300222: StreetLamp.002
+    2300224: StreetLamp.003
+    2300226: StreetLamp.004
+    2300228: StreetLamp.005
+    2300230: StreetLamp.006
+    2300232: StreetLamp.007
+    2300234: StreetLamp.008
+    2300236: StreetLamp.009
+    2300238: StreetLamp.010
+    2300240: StreetLamp.011
+    2300242: StreetLamp.012
+    2300244: StreetLamp.013
+    2300246: StreetLamp.014
+    2300248: StreetLamp.015
+    2300250: StreetLamp.016
+    2300252: StreetLamp.017
+    2300254: StreetLamp.018
+    2300256: StreetLamp.019
+    2300258: StreetLamp.020
+    2300260: StreetLamp.021
+    2300262: StreetLamp.022
+    2300264: StreetLamp.023
+    2300266: StreetLamp.024
+    2300268: StreetLamp.025
+    2300270: StreetLamp.026
+    2300272: StreetLamp.027
+    2300274: StreetLamp.028
+    2300276: StreetLamp.029
+    2300278: StreetLamp.030
+    2300280: StreetLamp.031
+    2300282: StreetLamp.032
+    2300284: StreetLamp.033
+    2300286: StreetLamp.034
+    2300288: StreetLamp.035
+    2300290: StreetLamp.036
+    2300292: StreetLamp.037
+    2300294: StreetLamp.038
+    2300296: StreetLamp.039
+    2300298: StreetLamp.040
+    2300300: StreetLamp.041
+    2300302: StreetLamp.042
+    2300304: StreetLamp.043
+    2300306: StreetLamp.044
+    2300308: StreetLamp.045
+    2300310: StreetLamp.046
+    2300312: StreetLamp.047
+    2300314: StreetLamp.048
+    2300316: StreetLamp.049
+    2300318: StreetLamp.050
+    2300320: StreetLamp.051
+    2300322: StreetLamp.052
+    2300324: StreetLamp.053
+    2300326: StreetLamp.054
+    2300328: StreetLamp.055
+    2300330: StreetLamp.056
+    2300332: StreetLamp.057
+    2300334: StreetLamp.058
+    2300336: StreetLamp.059
+    2300338: StreetLamp.060
+    2300340: StreetLamp.061
+    2300342: StreetLamp.062
+    2300344: StreetLamp.063
+    2300346: StreetLamp.064
+    2300348: StreetLamp.065
+    2300350: StreetLamp.066
+    2300352: StreetLamp.067
+    2300354: StreetLamp.068
+    2300356: StreetLamp.069
+    2300358: StreetLamp.070
+    2300360: StreetLamp.071
+    2300362: StreetLamp.072
+    2300364: StreetLamp.073
+    2300366: StreetLamp.074
+    2300368: StreetLamp.075
+    2300370: StreetLamp.076
+    2300372: StreetLamp.077
+    2300374: StreetLamp.078
+    2300376: StreetLamp.079
+    2300378: StreetLamp.080
+    2300380: StreetLamp.081
+    2300382: StreetLamp.082
+    2300384: StreetLamp.083
+    2300386: StreetLamp.084
+    2300388: StreetLamp.085
+    2300390: StreetLamp.086
+    2300392: StreetLamp.087
+    2300394: StreetLamp.088
+    2300396: StreetLamp.089
+    2300398: StreetLamp.090
+    2300400: StreetLamp.091
+    2300402: StreetLamp.092
+    2300404: StreetLamp.093
+    2300406: StreetLamp.094
+    2300408: StreetLamp.095
+    2300410: StreetLamp.096
+    2300412: StreetLamp.097
+    2300414: StreetLamp.098
+    2300416: StreetLamp.099
+    2300418: StreetLamp.100
+    2300420: StreetLamp.101
+    2300422: StreetLamp.102
+    2300424: StreetLamp.103
+    2300426: StreetLamp.104
+    2300428: StreetLamp.105
+    2300430: StreetLamp.106
+    2300432: StreetLamp.107
+    2300434: StreetLamp.108
+    2300436: StreetLamp.109
+    2300438: StreetLamp.110
+    2300440: StreetLamp.111
+    2300442: StreetLamp.112
+    2300444: StreetLamp.113
+    2300446: StreetLamp.114
+    2300448: Threes(no collision)
+    2300450: WORKSHOP
+    2300452: WORKSHOPinterior
+    2300454: XGrass
+    2300456: XGuardRail(no collision).001_MeshPart0
+    2300458: XGuardRail(no collision).001_MeshPart1
+    2300460: XGuardRail(no collision).001_MeshPart2
+    2300462: XGuardRail(no collision).001_MeshPart3
+    2300464: XGuardRail.001
+    2300466: XHouse(no collision).001
+    2300468: XLights(No Collision).001
+    2300470: XNurbsPath
+    2300472: XScaleReferences
+    2300474: ZombTech
+    3300000: '#ScaleReferences'
+    3300002: BezierCircle
+    3300004: Bilboard.001
+    3300006: Bilboard.002
+    3300008: Build
+    3300010: Build.001
+    3300012: Build.002
+    3300014: Build.003
+    3300016: Build.004
+    3300018: Build.005
+    3300020: Build.006
+    3300022: Build.007
+    3300024: Build.008
+    3300026: Build.009
+    3300028: Build.010
+    3300030: Build.011
+    3300032: Build.012
+    3300034: Build.013
+    3300036: Build1
+    3300038: Build1NIGHTS
+    3300040: Build2
+    3300042: Build2NIGHTS
+    3300044: Build3
+    3300046: Build3NIGTS
+    3300048: Build4
+    3300050: Build4NIGHTS
+    3300052: Build5
+    3300054: Build5.NIGHTS
+    3300056: Build6
+    3300058: Build6.NIGHTS
+    3300060: Build7
+    3300062: Build7.NIGHTS
+    3300064: Build8
+    3300066: Build8.NIGHTS
+    3300068: Build9.001
+    3300070: Build9.NIGHTS
+    3300072: casa
+    3300074: COLLSIONstreetLamp
+    3300076: COLLSIONstreetLamp.001
+    3300078: COLLSIONstreetLamp.002
+    3300080: COLLSIONstreetLamp.003
+    3300082: COLLSIONstreetLamp.004
+    3300084: COLLSIONstreetLamp.005
+    3300086: COLLSIONstreetLamp.006
+    3300088: COLLSIONstreetLamp.007
+    3300090: COLLSIONstreetLamp.008
+    3300092: COLLSIONstreetLamp.009
+    3300094: COLLSIONstreetLamp.010
+    3300096: COLLSIONstreetLamp.011
+    3300098: COLLSIONstreetLamp.012
+    3300100: COLLSIONstreetLamp.013
+    3300102: COLLSIONstreetLamp.014
+    3300104: COLLSIONstreetLamp.015
+    3300106: COLLSIONstreetLamp.016
+    3300108: COLLSIONstreetLamp.017
+    3300110: COLLSIONstreetLamp.018
+    3300112: COLLSIONstreetLamp.019
+    3300114: COLLSIONstreetLamp.020
+    3300116: COLLSIONstreetLamp.021
+    3300118: COLLSIONstreetLamp.022
+    3300120: COLLSIONstreetLamp.023
+    3300122: COLLSIONstreetLamp.024
+    3300124: Computer
+    3300126: FakeGround (no collision
+    3300128: FrontDoor
+    3300130: Grass
+    3300132: Grass(fisic material grass)
+    3300134: GuardRail(no collision)_MeshPart0
+    3300136: GuardRail(no collision)_MeshPart1
+    3300138: GuardRail(no collision)_MeshPart2
+    3300140: Hotel
+    3300142: Hotel(NIGHTS)
+    3300144: House
+    3300146: House(no collision)
+    3300148: Houses
+    3300150: Industry1
+    3300152: Industry2
+    3300154: Industry2.001
+    3300156: InvisibleWalls (no render)
+    3300158: Light.001
+    3300160: Miscellaneous
+    3300162: Neon (AddBlend; BackFaceOn)
+    3300164: NeonLamp
+    3300166: NurbsPath
+    3300168: NurbsPath.001
+    3300170: NurbsPath.002
+    3300172: NurbsPath.003
+    3300174: NurbsPath.004
+    3300176: NurbsPath.005
+    3300178: NurbsPath.006
+    3300180: NurbsPath.007
+    3300182: Palm(BAckFaceOFF)
+    3300184: Palm(BAckFaceOFF).001
+    3300186: Palm(BAckFaceOFF).002
+    3300188: Palm(BAckFaceOFF).003
+    3300190: Palm(BAckFaceOFF).004
+    3300192: Palm(BAckFaceOFF).005
+    3300194: ParkWalkTrought
+    3300196: Plane.000
+    3300198: Plane.001
+    3300200: Plane.003
+    3300202: Ramp
+    3300204: Ramp.001
+    3300206: Ramp.002
+    3300208: RoadPass
+    3300210: Signs(no collision)
+    3300212: SKYcloudDOme
+    3300214: Street(fisic materil asphalt)_MeshPart0
+    3300216: Street(fisic materil asphalt)_MeshPart1
+    3300218: StreetLamp
+    3300220: StreetLamp.001
+    3300222: StreetLamp.002
+    3300224: StreetLamp.003
+    3300226: StreetLamp.004
+    3300228: StreetLamp.005
+    3300230: StreetLamp.006
+    3300232: StreetLamp.007
+    3300234: StreetLamp.008
+    3300236: StreetLamp.009
+    3300238: StreetLamp.010
+    3300240: StreetLamp.011
+    3300242: StreetLamp.012
+    3300244: StreetLamp.013
+    3300246: StreetLamp.014
+    3300248: StreetLamp.015
+    3300250: StreetLamp.016
+    3300252: StreetLamp.017
+    3300254: StreetLamp.018
+    3300256: StreetLamp.019
+    3300258: StreetLamp.020
+    3300260: StreetLamp.021
+    3300262: StreetLamp.022
+    3300264: StreetLamp.023
+    3300266: StreetLamp.024
+    3300268: StreetLamp.025
+    3300270: StreetLamp.026
+    3300272: StreetLamp.027
+    3300274: StreetLamp.028
+    3300276: StreetLamp.029
+    3300278: StreetLamp.030
+    3300280: StreetLamp.031
+    3300282: StreetLamp.032
+    3300284: StreetLamp.033
+    3300286: StreetLamp.034
+    3300288: StreetLamp.035
+    3300290: StreetLamp.036
+    3300292: StreetLamp.037
+    3300294: StreetLamp.038
+    3300296: StreetLamp.039
+    3300298: StreetLamp.040
+    3300300: StreetLamp.041
+    3300302: StreetLamp.042
+    3300304: StreetLamp.043
+    3300306: StreetLamp.044
+    3300308: StreetLamp.045
+    3300310: StreetLamp.046
+    3300312: StreetLamp.047
+    3300314: StreetLamp.048
+    3300316: StreetLamp.049
+    3300318: StreetLamp.050
+    3300320: StreetLamp.051
+    3300322: StreetLamp.052
+    3300324: StreetLamp.053
+    3300326: StreetLamp.054
+    3300328: StreetLamp.055
+    3300330: StreetLamp.056
+    3300332: StreetLamp.057
+    3300334: StreetLamp.058
+    3300336: StreetLamp.059
+    3300338: StreetLamp.060
+    3300340: StreetLamp.061
+    3300342: StreetLamp.062
+    3300344: StreetLamp.063
+    3300346: StreetLamp.064
+    3300348: StreetLamp.065
+    3300350: StreetLamp.066
+    3300352: StreetLamp.067
+    3300354: StreetLamp.068
+    3300356: StreetLamp.069
+    3300358: StreetLamp.070
+    3300360: StreetLamp.071
+    3300362: StreetLamp.072
+    3300364: StreetLamp.073
+    3300366: StreetLamp.074
+    3300368: StreetLamp.075
+    3300370: StreetLamp.076
+    3300372: StreetLamp.077
+    3300374: StreetLamp.078
+    3300376: StreetLamp.079
+    3300378: StreetLamp.080
+    3300380: StreetLamp.081
+    3300382: StreetLamp.082
+    3300384: StreetLamp.083
+    3300386: StreetLamp.084
+    3300388: StreetLamp.085
+    3300390: StreetLamp.086
+    3300392: StreetLamp.087
+    3300394: StreetLamp.088
+    3300396: StreetLamp.089
+    3300398: StreetLamp.090
+    3300400: StreetLamp.091
+    3300402: StreetLamp.092
+    3300404: StreetLamp.093
+    3300406: StreetLamp.094
+    3300408: StreetLamp.095
+    3300410: StreetLamp.096
+    3300412: StreetLamp.097
+    3300414: StreetLamp.098
+    3300416: StreetLamp.099
+    3300418: StreetLamp.100
+    3300420: StreetLamp.101
+    3300422: StreetLamp.102
+    3300424: StreetLamp.103
+    3300426: StreetLamp.104
+    3300428: StreetLamp.105
+    3300430: StreetLamp.106
+    3300432: StreetLamp.107
+    3300434: StreetLamp.108
+    3300436: StreetLamp.109
+    3300438: StreetLamp.110
+    3300440: StreetLamp.111
+    3300442: StreetLamp.112
+    3300444: StreetLamp.113
+    3300446: StreetLamp.114
+    3300448: Threes(no collision)
+    3300450: WORKSHOP
+    3300452: WORKSHOPinterior
+    3300454: XGrass
+    3300456: XGuardRail(no collision).001_MeshPart0
+    3300458: XGuardRail(no collision).001_MeshPart1
+    3300460: XGuardRail(no collision).001_MeshPart2
+    3300462: XGuardRail(no collision).001_MeshPart3
+    3300464: XGuardRail.001
+    3300466: XHouse(no collision).001
+    3300468: XLights(No Collision).001
+    3300470: XNurbsPath
+    3300472: XScaleReferences
+    3300474: ZombTech
+    4300000: NurbsPath.007
+    4300002: Plane.003
+    4300004: NurbsPath.006
+    4300006: InvisibleWalls (no render)
+    4300008: Grass(fisic material grass)
+    4300010: Palm(BAckFaceOFF).005
+    4300012: Palm(BAckFaceOFF).004
+    4300014: Palm(BAckFaceOFF).003
+    4300016: Palm(BAckFaceOFF).002
+    4300018: Build.013
+    4300020: Build.012
+    4300022: Build.011
+    4300024: Build.010
+    4300026: Build.009
+    4300028: Build.008
+    4300030: Build.007
+    4300032: Build.006
+    4300034: Build.005
+    4300036: Build.004
+    4300038: Build.003
+    4300040: Build.002
+    4300042: Build.001
+    4300044: Build
+    4300046: FakeGround (no collision
+    4300048: Palm(BAckFaceOFF).001
+    4300050: Signs(no collision)
+    4300052: GuardRail(no collision)_MeshPart0
+    4300054: GuardRail(no collision)_MeshPart1
+    4300056: GuardRail(no collision)_MeshPart2
+    4300058: Light.001
+    4300060: ZombTech
+    4300062: Industry2.001
+    4300064: Industry1
+    4300066: House
+    4300068: ParkWalkTrought
+    4300070: Bilboard.002
+    4300072: Street(fisic materil asphalt)_MeshPart0
+    4300074: Street(fisic materil asphalt)_MeshPart1
+    4300076: NurbsPath.005
+    4300078: Ramp.002
+    4300080: Ramp.001
+    4300082: Ramp
+    4300084: Hotel(NIGHTS)
+    4300086: Build1NIGHTS
+    4300088: Build2NIGHTS
+    4300090: Build3NIGTS
+    4300092: Build4NIGHTS
+    4300094: Build5.NIGHTS
+    4300096: Build6.NIGHTS
+    4300098: Build7.NIGHTS
+    4300100: Build8.NIGHTS
+    4300102: Build9.NIGHTS
+    4300104: Threes(no collision)
+    4300106: Neon (AddBlend; BackFaceOn)
+    4300108: Grass
+    4300110: Palm(BAckFaceOFF)
+    4300112: Build9.001
+    4300114: Houses
+    4300116: Build8
+    4300118: Build7
+    4300120: Build6
+    4300122: Industry2
+    4300124: Build5
+    4300126: Build4
+    4300128: Build3
+    4300130: Build2
+    4300132: Build1
+    4300134: Hotel
+    4300136: RoadPass
+    4300138: House(no collision)
+    4300140: SKYcloudDOme
+    4300142: Bilboard.001
+    4300144: COLLSIONstreetLamp.024
+    4300146: COLLSIONstreetLamp.023
+    4300148: COLLSIONstreetLamp.022
+    4300150: COLLSIONstreetLamp.021
+    4300152: COLLSIONstreetLamp.020
+    4300154: COLLSIONstreetLamp.019
+    4300156: COLLSIONstreetLamp.018
+    4300158: COLLSIONstreetLamp.017
+    4300160: COLLSIONstreetLamp.016
+    4300162: COLLSIONstreetLamp.015
+    4300164: COLLSIONstreetLamp.014
+    4300166: COLLSIONstreetLamp.013
+    4300168: COLLSIONstreetLamp.012
+    4300170: COLLSIONstreetLamp.011
+    4300172: COLLSIONstreetLamp.010
+    4300174: COLLSIONstreetLamp.009
+    4300176: COLLSIONstreetLamp.008
+    4300178: COLLSIONstreetLamp.007
+    4300180: COLLSIONstreetLamp.006
+    4300182: COLLSIONstreetLamp.005
+    4300184: COLLSIONstreetLamp.004
+    4300186: COLLSIONstreetLamp.003
+    4300188: COLLSIONstreetLamp.002
+    4300190: COLLSIONstreetLamp.001
+    4300192: COLLSIONstreetLamp
+    4300194: StreetLamp.114
+    4300196: StreetLamp.113
+    4300198: StreetLamp.112
+    4300200: StreetLamp.111
+    4300202: StreetLamp.110
+    4300204: StreetLamp.109
+    4300206: StreetLamp.108
+    4300208: StreetLamp.107
+    4300210: StreetLamp.106
+    4300212: StreetLamp.105
+    4300214: StreetLamp.104
+    4300216: StreetLamp.103
+    4300218: StreetLamp.102
+    4300220: StreetLamp.101
+    4300222: StreetLamp.100
+    4300224: StreetLamp.099
+    4300226: StreetLamp.098
+    4300228: StreetLamp.097
+    4300230: StreetLamp.096
+    4300232: StreetLamp.095
+    4300234: StreetLamp.094
+    4300236: StreetLamp.093
+    4300238: StreetLamp.092
+    4300240: StreetLamp.091
+    4300242: StreetLamp.090
+    4300244: StreetLamp.089
+    4300246: StreetLamp.088
+    4300248: StreetLamp.087
+    4300250: StreetLamp.086
+    4300252: StreetLamp.085
+    4300254: StreetLamp.084
+    4300256: StreetLamp.083
+    4300258: StreetLamp.082
+    4300260: StreetLamp.081
+    4300262: StreetLamp.080
+    4300264: StreetLamp.079
+    4300266: StreetLamp.078
+    4300268: StreetLamp.077
+    4300270: StreetLamp.076
+    4300272: StreetLamp.075
+    4300274: StreetLamp.074
+    4300276: StreetLamp.073
+    4300278: StreetLamp.072
+    4300280: StreetLamp.071
+    4300282: StreetLamp.070
+    4300284: StreetLamp.069
+    4300286: StreetLamp.068
+    4300288: StreetLamp.067
+    4300290: StreetLamp.066
+    4300292: StreetLamp.065
+    4300294: StreetLamp.064
+    4300296: StreetLamp.063
+    4300298: StreetLamp.062
+    4300300: StreetLamp.061
+    4300302: StreetLamp.060
+    4300304: StreetLamp.059
+    4300306: StreetLamp.058
+    4300308: StreetLamp.057
+    4300310: StreetLamp.056
+    4300312: StreetLamp.055
+    4300314: StreetLamp.054
+    4300316: StreetLamp.009
+    4300318: StreetLamp.053
+    4300320: StreetLamp.052
+    4300322: StreetLamp.051
+    4300324: StreetLamp.050
+    4300326: StreetLamp.049
+    4300328: StreetLamp.048
+    4300330: StreetLamp.047
+    4300332: StreetLamp.046
+    4300334: StreetLamp.045
+    4300336: StreetLamp.044
+    4300338: StreetLamp.043
+    4300340: StreetLamp.042
+    4300342: StreetLamp.041
+    4300344: StreetLamp.040
+    4300346: StreetLamp.039
+    4300348: StreetLamp.038
+    4300350: StreetLamp.037
+    4300352: StreetLamp.036
+    4300354: StreetLamp.035
+    4300356: StreetLamp.034
+    4300358: StreetLamp.033
+    4300360: StreetLamp.032
+    4300362: StreetLamp.031
+    4300364: StreetLamp.030
+    4300366: StreetLamp.029
+    4300368: StreetLamp.028
+    4300370: StreetLamp.027
+    4300372: StreetLamp.026
+    4300374: StreetLamp.025
+    4300376: StreetLamp.024
+    4300378: StreetLamp.023
+    4300380: StreetLamp.022
+    4300382: StreetLamp.021
+    4300384: StreetLamp.020
+    4300386: StreetLamp.019
+    4300388: StreetLamp.018
+    4300390: StreetLamp.017
+    4300392: StreetLamp.016
+    4300394: StreetLamp.015
+    4300396: StreetLamp.014
+    4300398: StreetLamp.013
+    4300400: StreetLamp.012
+    4300402: StreetLamp.011
+    4300404: StreetLamp.010
+    4300406: StreetLamp.008
+    4300408: StreetLamp.007
+    4300410: StreetLamp.006
+    4300412: StreetLamp.005
+    4300414: StreetLamp.004
+    4300416: StreetLamp.003
+    4300418: StreetLamp.002
+    4300420: StreetLamp.001
+    4300422: StreetLamp
+    4300424: NurbsPath.004
+    4300426: BezierCircle
+    4300428: NurbsPath.003
+    4300430: NurbsPath.002
+    4300432: NurbsPath.001
+    4300434: Plane.000
+    4300436: Plane.001
+    4300438: NurbsPath
+    4300440: '#ScaleReferences'
+    4300442: WORKSHOP
+    4300444: Computer
+    4300446: FrontDoor
+    4300448: Miscellaneous
+    4300450: NeonLamp
+    4300452: WORKSHOPinterior
+    4300454: casa
+    4300456: XGuardRail.001
+    4300458: XGuardRail(no collision).001_MeshPart0
+    4300460: XGuardRail(no collision).001_MeshPart1
+    4300462: XGuardRail(no collision).001_MeshPart2
+    4300464: XGuardRail(no collision).001_MeshPart3
+    4300466: XHouse(no collision).001
+    4300468: XLights(No Collision).001
+    4300470: XNurbsPath
+    4300472: XGrass
+    4300474: XScaleReferences
+    7400000: FrontDoor|FrontDoorAction
+    7400002: FrontDoor|FrontDoor|FrontDoor|FrontDoorAction|FrontDoor|FrontDoorAction
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

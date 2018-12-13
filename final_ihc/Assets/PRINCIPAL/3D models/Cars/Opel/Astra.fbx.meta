@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 54644285e3382244d91172ac03d71850
+timeCreated: 1537632894
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Astra
+    100004: BrakeLightGlow
+    100006: HeadLightGlow
+    100008: Kit1
+    100010: Kit2
+    100012: Kit3
+    100014: ReverseLightGlow
+    100016: Wheel1FL
+    100018: Wheel1FR
+    100020: Wheel1RL
+    100022: Wheel1RR
+    100024: Wheel2FL
+    100026: Wheel2FR
+    100028: Wheel2RL
+    100030: Wheel2RR
+    100032: Wheel3FL
+    100034: Wheel3FR
+    100036: Wheel3RL
+    100038: Wheel3RR
+    100040: Spoiler1
+    100042: Spoiler2
+    400000: //RootNode
+    400002: Astra
+    400004: BrakeLightGlow
+    400006: HeadLightGlow
+    400008: Kit1
+    400010: Kit2
+    400012: Kit3
+    400014: ReverseLightGlow
+    400016: Wheel1FL
+    400018: Wheel1FR
+    400020: Wheel1RL
+    400022: Wheel1RR
+    400024: Wheel2FL
+    400026: Wheel2FR
+    400028: Wheel2RL
+    400030: Wheel2RR
+    400032: Wheel3FL
+    400034: Wheel3FR
+    400036: Wheel3RL
+    400038: Wheel3RR
+    400040: Spoiler1
+    400042: Spoiler2
+    2300000: Astra
+    2300002: BrakeLightGlow
+    2300004: HeadLightGlow
+    2300006: Kit1
+    2300008: Kit2
+    2300010: Kit3
+    2300012: ReverseLightGlow
+    2300014: Wheel1FL
+    2300016: Wheel1FR
+    2300018: Wheel1RL
+    2300020: Wheel1RR
+    2300022: Wheel2FL
+    2300024: Wheel2FR
+    2300026: Wheel2RL
+    2300028: Wheel2RR
+    2300030: Wheel3FL
+    2300032: Wheel3FR
+    2300034: Wheel3RL
+    2300036: Wheel3RR
+    2300038: Spoiler1
+    2300040: Spoiler2
+    3300000: Astra
+    3300002: BrakeLightGlow
+    3300004: HeadLightGlow
+    3300006: Kit1
+    3300008: Kit2
+    3300010: Kit3
+    3300012: ReverseLightGlow
+    3300014: Wheel1FL
+    3300016: Wheel1FR
+    3300018: Wheel1RL
+    3300020: Wheel1RR
+    3300022: Wheel2FL
+    3300024: Wheel2FR
+    3300026: Wheel2RL
+    3300028: Wheel2RR
+    3300030: Wheel3FL
+    3300032: Wheel3FR
+    3300034: Wheel3RL
+    3300036: Wheel3RR
+    3300038: Spoiler1
+    3300040: Spoiler2
+    4300000: HeadLightGlow
+    4300002: BrakeLightGlow
+    4300004: ReverseLightGlow
+    4300006: Kit3
+    4300008: Kit2
+    4300010: Kit1
+    4300012: Astra
+    4300014: Wheel1FL
+    4300016: Wheel1FR
+    4300018: Wheel1RL
+    4300020: Wheel1RR
+    4300022: Wheel2FL
+    4300024: Wheel2FR
+    4300026: Wheel2RL
+    4300028: Wheel2RR
+    4300030: Wheel3FL
+    4300032: Wheel3FR
+    4300034: Wheel3RL
+    4300036: Wheel3RR
+    4300038: Spoiler2
+    4300040: Spoiler1
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

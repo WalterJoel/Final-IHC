@@ -1,0 +1,11 @@
+create index id_5 on alumnos_5 (id)
+
+
+//NORMAL
+select * from alumnos_5 where id=4999995
+
+
+///INDICE
+select * from alumnos_5 where id=4999995 idx=id_5.idx	
+
+insert into alumnos_5 values(156,nombre,nombre,11)
